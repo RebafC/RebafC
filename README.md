@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more about git all the time
 - 💞️ I’m looking to collaborate on ... not sure
 
-It might look like I have lots of repositiories but only 1 is my own work, onky a small number I raised an issue on.
+It might look like I have lots of repositories but only 1 is my own work, onky a small number I raised an issue on.
 <!---
 - 📫 How to reach me ...
 
