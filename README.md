@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning more about TDD (using some of Uncle Bob's Katas), OO generally and as much git as I can
 - 🤔 I have some familiarity with many computer languages from the ancient (RPG & Cobol) to more modern (PHP) and several in between (VB),
 as well as some web specifics (HTML & CSS). 
-- 🏫 Perhaps next computer language might be one of the functional langauges
+- 🏫 Perhaps next computer language might be one of the functional languages
 - 💻 I use Windows and VSCode on an ancient laptop
 - ✨ I can find my around Wordpress plugins
 - 😵‍💫 Don't ask me for graphic design ... I'm not the one you're looking for
@@ -13,7 +13,7 @@ as well as some web specifics (HTML & CSS).
 
 It might look like I have lots of repositories but only one is my own work. I have raised issues on a small number. But I grow more adventurous all the time.
 
-I hope it's OK. The icons I added are from [Emojipedia](https://emojipedia.org/).
+The icons I added are from [Emojipedia](https://emojipedia.org/).
 
 <!---
 - 📫 How to reach me ...
